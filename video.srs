@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "netflav5.com",
+		"netflav1.com",
+		"netflavns1.com",
+		"dalysv.com",
+		"roseimgs.com",
+		"stripcdn.com",
+		"netflav.com",
+		"stripchatgirls.com",
+		"mushroomtrack.com",
+		"jable.tv",
+		"picacomic.com",
+		"wakamoment.tk"
+      ],
+      "domain_keyword": [
+        "netflav1",
+		"netflav5",
+		"jable",
+		"tv",
+		"tk",
+		"video"
+      ]
+    }
+  ]
+}
